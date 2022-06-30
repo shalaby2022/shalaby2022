@@ -4,7 +4,7 @@
 
 Junior Front-end & mobile cross plateform developer :computer:.
 
-Graduated From ITI track Front end and mobile cross plateform ,and graduated from NTI web design track level-1 and i'm seeking for job opportunity :wink: 
+Graduated From ITI track Front end and mobile cross plateform ,and graduated from NTI web design track & I'm seeking for job opportunity :wink: 
 
 > 🏘️ Available for Freelance Projects.
 ---
