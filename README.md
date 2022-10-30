@@ -2,11 +2,7 @@
 
 ### I'm Ahmed ! :sunglasses: </br>
 
-Junior Front-end & mobile cross plateform developer :computer:.
 
-Graduated From ITI track Front end and mobile cross plateform ,and graduated from NTI web design track & I'm seeking for job opportunity :wink: 
-
-> 🏘️ Available for Freelance Projects.
 ---
 
 ## FIND ME
@@ -29,8 +25,12 @@ Graduated From ITI track Front end and mobile cross plateform ,and graduated fro
 <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" /> <img alt="css" src="https://img.shields.io/badge/-CSS3-blue?style=flat-square&logo=css3&logoColor=white" /> <img alt="Sass" src="https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white" /> <img alt="BootStrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white" /> <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-yellow?style=flat-square&logo=javascript&logoColor=white" /> <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" /> <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" /> <img alt="redux" src="https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white" /> <img alt="angular" src="https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=white" /> <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" /> <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" /> <img alt="Webpack" src="https://img.shields.io/badge/-Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=black" /> <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" /> <img alt="reactNative" src="https://img.shields.io/badge/-reactnative-E34F26?style=flat-square&logo=ReactNative&logoColor=white" />
 
 <h1 align="center">Hi 👋, I'm Ahmed Shalaby</h1>
-<h3 align="center">A passionate frontend developer from Alexandria, Egypt</h3>
+<h3 align="center">Junior Front-end & react-native developer :computer:.</h3>
+    
 
+<p> Graduated From ITI track Front end and mobile cross plateform ,and graduated from NTI web design track & I'm seeking for job opportunity :wink: 
+> 🏘️ Available for Freelance Projects.</p>
+> 
 - 🌱 I’m currently learning **Node-Js, Mongoose, express**
 
 - 💬 Ask me about **react, react native, javascript**
