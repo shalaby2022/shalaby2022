@@ -1,12 +1,11 @@
-
 <h1 align="center">Hi 👋, I'm Ahmed Shalaby</h1>
 <h3 align="center">Junior Front-end & react-native developer :computer:.</h3>
-    
 
-<p> Graduated From ITI track Front end and mobile cross plateform ,and graduated from NTI web design track & I'm seeking for job opportunity :wink: 
-> 🏘️ Available for Freelance Projects.</p>
-> 
+- 🔭 I’m currently working on **Atar**
+
 - 🌱 I’m currently learning **Node-Js, Mongoose, express**
+
+- 👨‍💻 All of my projects are available at [https://github.com/shalaby2022?tab=repositories](https://github.com/shalaby2022?tab=repositories)
 
 - 💬 Ask me about **react, react native, javascript**
 
@@ -14,10 +13,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://fb.com/ahmed shalaby" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ahmed shalaby" height="30" width="40" /></a>
+<a href="https://fb.com/https://www.facebook.com/shalpy1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/shalpy1" height="30" width="40" /></a>
 <a href="https://instagram.com/ahmed shalaby" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ahmed shalaby" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/ahmed shalaby" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="ahmed shalaby" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/ahmedshalaby22" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ahmedshalaby22" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/https://www.hackerrank.com/ahmedshalaby2011" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/ahmedshalaby2011" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/https://leetcode.com/ahmedshalaby22/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/ahmedshalaby22/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
