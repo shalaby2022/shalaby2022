@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Ahmed Shalaby</h1>
-<h3 align="center">Junior Front-end & react-native developer :computer:.</h3>
+<h3 align="center">Front-end(React / React-native) developer :computer:.</h3>
 
-- 🔭 I’m currently working on **Atar**
+- 🔭 I’m currently working on **RUSHBRUSH**
 
-- 🌱 I’m currently learning **Node-Js, Mongoose, express**
+- 🌱 I’m currently learning **React native extra features packages ,Node-Js, Mongoose, express**
 
 - 👨‍💻 All of my projects are available at [https://github.com/shalaby2022?tab=repositories](https://github.com/shalaby2022?tab=repositories)
 
