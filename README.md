@@ -13,10 +13,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.facebook.com/shalpy1?mibextid=ZbWKwL" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/shalpy1" height="30" width="40" /></a>
-<a href="https://instagram.com/ahmed shalaby" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ahmed shalaby" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/profile/ahmedshalaby2011" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/ahmedshalaby2011" height="30" width="40" /></a>
-<a href="https://leetcode.com/ahmedshalaby22/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/ahmedshalaby22/" height="30" width="40" /></a>
+<a href="https://www.facebook.com/shalpy1?mibextid=ZbWKwL" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/shalpy1" height="30" width="40" /></a>
+<a href="https://instagram.com/ahmed shalaby" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ahmed shalaby" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/profile/ahmedshalaby2011" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/ahmedshalaby2011" height="30" width="40" /></a>
+<a href="https://leetcode.com/ahmedshalaby22/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/ahmedshalaby22/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
