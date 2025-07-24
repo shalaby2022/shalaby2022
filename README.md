@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ahmed Shalaby</h1>
-<h3 align="center">Front-end(React / React-native) developer :computer:.</h3>
+<h3 align="center">Mobile & Web (React-native / React) developer :computer:.</h3>
 
 - 🔭 I’m currently working at <a href="https://www.breadfast.com/" target="blank">Breadfast</a> as a Mobile software Engineer (React native).
 
